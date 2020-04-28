@@ -6,32 +6,32 @@
             "filename": "./LabOverview/OverviewREADME.md"
         },
         {            
-            "title": "Lab 100: Getting Started: Autonomous Data Warehouse (ADW) and Application Express (APEX)",
+            "title": "Lab 100: Analyze",
             "publisheddate": "02/24/2020",
             "filename": "./Lab100/LabGuide100.md"
         },
         {            
-            "title": "Lab 200: Use Oracle Machine Learning (OML) to Run a Machine Learning Model and SQL Developer to Grant User Privileges",
+            "title": "Lab 200: Extend",
             "publisheddate": "02/24/2020",
             "filename": "./Lab200/LabGuide200.md"
         },
         {            
-            "title": "Lab 300: Enabling Oracle Restful Data Services (ORDS) with APEX to Call and Create APIs",
+            "title": "Lab 300: Connect",
             "publisheddate": "02/24/2020",
             "filename": "./Lab300/LabGuide300.md"
         },
         {            
-            "title": "Lab 400: Getting Started: Oracle Analytics Cloud (OAC)",
+            "title": "Lab 400: Secure",
             "publisheddate": "02/24/2020",
             "filename": "./Lab400/LabGuide400.md"
         },
         {            
-            "title": "Lab 500: Visualizations in Oracle Analytics Cloud (OAC)",
+            "title": "Lab 500: TBD",
             "publisheddate": "02/24/2020",
             "filename": "./Lab500/LabGuide500.md"
         },
         {
-            "title": "Lab 600: Implementing APIs into Oracle Digital Assistant (ODA)",
+            "title": "Lab 600: TBD",
             "publisheddate": "02/24/2020",
             "filename": "./Lab600/LabGuide600.md"
         }
