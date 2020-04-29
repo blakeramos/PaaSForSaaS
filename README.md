@@ -16,42 +16,28 @@ The Oracle Cloud platform-as-a-service (PaaS) portfolio is comprehensive and sta
 This is the first of several labs that are part of the **Oracle’s PaaS for SaaS** workshop. This workshop will walk you through the process of using: 
 - Oracle Analytics for Applications (OAX) and a sub-set of the 50+ out-of-the-box financial KPIs and 25+ benchmark finance dashboards. 
 - Oracle Digital Assistant (ODA) prebuilt AI trained skills for ERP Cloud.
-- Oracle Integration Cloud (OIC) and Autnomous Datawarehouse (ADW) to process additional orders and store information from ERP cloud in a separate database for long term retention and analytics.
+- Oracle Integration Cloud (OIC) and Autonomous Datawarehouse (ADW) to process additional orders and store information from ERP cloud in a separate database for long term retention and analytics.
 - Oracle Identity Cloud Service (IDCS) and Cloud Access Security Broker (CASB) to centralize an enterprise's user store and enable fraudulent behavior detection. 
 
-You will take on 2 Personas during the workshop. The **Data Scientist Persona** will prepare the data for training and validating the machine learning models and apply those models in order to predict the future demand. The **Business Analyst Persona** will also build and apply Machine Learning models using Oracle Analytics Cloud service without writing a single line of code. During the workshop, you will get exposure to Oracle Autonomous Data Warehouse (ADW), Oracle Machine Learning tool (OML), Oracle Analytics Cloud Service (OAC), Oracle Application Express (APEX), Oracle Rest Data Service (ORDS), and the Oracle Digital Assistant (ODA) chatbot.
+You will take on 5 Personas during the workshop. Overall, the majority of the workshop will revolve around the **Finance Manager**. The Finance Manager will be relying on OAX's prebuilt models and visuals to collaborate with the **Business Analyst** on ways to better their account payable ratio. The Finance Manager will then leverage Oracle's Digital Assistant to submit expenses and get updates on his accounts. The company's **New Hire** will then complete a few on-boarding tasks such as procuring a laptop and business cards through ODA. Next, the Finance Manager and a **Customer** needs to be able to process additional orders and store information from ERP cloud in a separate Database for long term retention and analytics. Lastly, the Finance Manager is having difficulty accessing the appropriate documents. The **Application Security Architect** will grant the Finance Manager access to ERP Financials and setup a policy to detect fraudulent behavior. 
 
-The **Finance Manager** will
-The **Business Analyst** will
-The **New Hire** will
-The **Customer** will
-The **Application Security Architect** will 
+During the workshop, you will get exposure to Oracle Analytics for Applications (OAX), Oracle Digital Assistant (ODA), Oracle Autonomous Data Warehouse (ADW), Oracle Integration Cloud (OIC), Oracle Identity Cloud Service (IDCS), and Oracle Cloud Access Security Broker (CASB). 
 
-To get an idea of how these services correlate to one another, here is an example of that Cloud Data Platform Architecture which can be extended with further Oracle services such as user federation through Identity Cloud Service (IDCS) and Oracle Integration Cloud (OIC):
+To get an idea of how these services correlate to one another, here is an example of the PaaSForSaaS Architecture which can be extended with other Oracle SaaS or Oracle PaaS:
 
-![](./images/cloud-data-construction-arch.jpg " ")
+![](./images/na.jpg " ")
 
 **Note**: This lab is intended to be a comprehensive full cloud showcase. As such, it is assumed a user going through this workshop will be provisioning resources and creating users from scratch. If you decide to use existing infrastructure or resources, be aware and keep note of your namings so resources don't overlap and conflict. 
 
 **Note**: Additionally, as much as possible, do not stray away from the naming conventions used for resources in this workshop. You may run into errors if you do.
 
-*In addition to the workshop*, feel free to watch the walkthrough companion videos by clicking on the following links below and signing in with your Oracle SSO:
-
-1. [Lab 100 Walkthrough Video](https://otube.oracle.com/media/Lab100A+ADW+and+APEX+Essentials/0_dluujk0s)
-2. [Lab 200 Walkthrough Video](https://otube.oracle.com/media/Lab200A+Machine+Learning+with+ADW/0_xa5dg572)
-3. [Lab 300 Walkthrough Video](https://otube.oracle.com/media/Lab300A+ORDS+and+APEX/0_s9mbgdfx)
-4. [Lab 400 Walkthrough Video](https://otube.oracle.com/media/Lab+400A+Getting+Started+with+OAC/0_kmhc3x9v)
-5. [Lab 500 Walkthrough Video](https://otube.oracle.com/media/Lab+500A+Analytics+in+OAC/0_ekr3yppl)
-6. [Lab 600 Walkthrough Video](https://otube.oracle.com/media/Lab+600A+Implementing+APIs+into+ODA/0_f8nheacr)
-
-**_To log issues_**, click here to go to the [github oracle](https://github.com/oracle/learning-library/issues/new) repository issue submission form.
-
 ### Objectives
-- Provision an Autonomous Data Warehouse (ADW) Instance
-- Build an Oracle Application Express (APEX) App
-- Create Machine Learning Models within the Autonomous Data Warehouse (ADW) Instance by using the Oracle Machine Learning Tool (OML)
-- Visualize Data and Prediction Models in Oracle Analytics Cloud (OAC)
-- Bonus: Integrate a 3rd Party Web App and Oracle Digital Assistant (ODA) Chatbot
+- Understand OAX's prebuilt capabilities and KPI(s)
+- Understand how to use ODA with ERP Cloud
+- Take advantage of custom business logic capabilities of OIC
+- Extract and load data from ERP Cloud to ADW.
+- Create a centralized user store with IDCS
+- Fraudulent behavior detection using CASB
 
 
 ### Required Artifacts
