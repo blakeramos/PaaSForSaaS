@@ -1,4 +1,4 @@
-# Oracle’s Cloud Platform: Transform and extend Oracle ERP Cloud
+# Oracle’s Cloud Platform: Transform and Extend Oracle ERP Cloud
 
 <!-- Comment out table of contents
 ## Table of Contents
