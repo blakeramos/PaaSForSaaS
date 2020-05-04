@@ -144,91 +144,101 @@ This lab walks you through registering a demo using a Fusion Apps demo title tha
 
 -   Click the top right icon and then click on **Sign Out**
 
-![](<INSERT IMAGE> " ")
+![](./images/signout.jpg " ")
 
 ### **STEP 2**: Sign in using brian.joseph
 
 -   Enter the username **brian.joseph** and the **password** you copied earlier in the workshop.
 
+![](./images/signin-brian.jpg " ")
+
 ### **STEP 3**: Interact with the Digital Assistant 
 
 -   We are going to switch to the perspective of a new hire. This new hire was told to procure a laptop and business cards through his employer's pre-built Digital Assistant that has been integrated with ERP Cloud Procurement module. **Click** on the **Digital Assistant** icon in the bottom right hand corner and type in **I need a new laptop**
 
-![](<INSERT IMAGE> " ")
+![](./images/laptop.jpg " ")
 
 -   The Digital Assistant will prompt you if you would like it to recommend a laptop based on your job role. Type in **Yes**.
 
-![](<INSERT IMAGE> " ")
+-   Browse what is available by clicking on the **Yellow side arrow** and select **more details** on your favorite option.
 
--   Browse what is available by clicking on the **Yellow side arrow** and select more details on your favorite option.
-
-![](<INSERT IMAGE> " ")
+![](./images/browse.jpg " ")
 
 -   The Digital Assistant will provide you with more details and ask if you would like more details on any other laptops.
 
 -   Type in **No**
 
-![](<INSERT IMAGE> " ")
+![](./images/no.jpg " ")
 
 -   The Digital Assistant will ask if you have made a choice. Type in **Yes** and select the **Laptop** you would like to procure.
 
-![](<INSERT IMAGE> " ")
+![](./images/select.jpg " ")
 
 -   The Digital Assistant will create the purchase requisition and route the req. to your manager for approval. 
 
+![](./images/purchase.jpg " ")
+
 -   The next thing we need to do is procure business cards. To do this type in **Order business cards**
 
-![](<INSERT IMAGE> " ")
-
--   The Digital Assistant will ask where you want to go. Select **BusinessCards in Employee Business Cards**. The Digital Assistant will respond and give you a preview.
+-   The Digital Assistant will respond and give you a preview. Select **Tap here**.
 
 -   Select **Tap here**
 
-![](<INSERT IMAGE> " ")
+![](./images/bc.jpg " ")
 
 -   This will open up a new tab where you can preview your business cards, select the quantity, and submit the order.
 
+![](./images/wb-1.jpg " ")
+
 -   Select the quantity you want to order and select submit. **Close** the tab and open up the tab where you are logged into *ERP Cloud**.
 
-![](<INSERT IMAGE> " ")
+![](./images/wb-2.jpg " ")
 
 -   The Digital Assistant will create the requisition, display the status of the order, and give you the requisition number.
 
-![](<INSERT IMAGE> " ")
+![](./images/fin.jpg " ")
 
 -   When a new tab opened up, the application you were viewing is what's called a **WebView**. A WebView is an application that enables structured data entry through UI element and is able to integrate with the Digital Assistant. The WebView can validate user input and can be built using Oracle Visual Builder Cloud Service, like the one seen earlier, Oracle JET, or React. 
 
 
 ## Part 3. Mobile Application and Oracle's AI Voice
 
-### **STEP 1**: Download mobile application
+### **STEP 1**: Initial Setup
 
--   On your mobile device head to this [link](<INSERT LINK>) and download the application.
+-   Follow the steps [here](https://demo.oracle.com/apex/f?p=GO:PAGE:0:DSD:NO:1:ID:53992) to install on iOS or Andriod mobile device. 
 
-### **STEP 2**: Connect to Oracle VPN
-
-### **STEP 3**: Mobile App Login
-
-### **STEP 4**: Interact with ODA
-
--   You can interact with the ODA by typing in the chat box or by clicking the microphone icon in the bottom right.
+### **STEP 2**: Interact with ODA
 
 -   In this portion of the workshop we are going to get a few updates on the Finance Manager's account.
 
+-   You can interact with the ODA by typing in the chat box or by clicking the microphone icon in the bottom right.
+
+-   Press the microphone button and say **What is the account balance for cleaning?**
+
+![](./images/mobile-1.jpg " ")
+
 -   Press the microphone button and say **How much do we owe our suppliers office depot?**
+
+![](./images/mobile-2.jpg " ")
 
 -   Press the microphone button and say **Which account has the largest budget surplus?**
 
+![](./images/mobile-3.jpg " ")
+
 -   Press the microphone button and say **Which project has the highest margins?**
+
+![](./images/mobile-4.jpg " ")
 
 -   Oracle’s Digital assistant provides broad channel support like slack, teams, sms, mobile apps, text-to-speech, and speech to text capabilities. In this portion of the workshop Oracle's AI Voice is being used with no risky exposure to 3rd party api's.
 
 ## BONUS: Create a twilio, slack, and/or Facebook channel route to Demo Services ODA
 
+-   [Click here](https://demo.oracle.com/apex/f?p=GO:PAGE:0:DSD:NO:1:ID:76473) to do so.
+
 
 ## Summary
 
--   In this lab, requested a demo ERP Cloud instance and interacted with the pre-built Digital Assistant skill for ERP. Oracle Digital Assistant pre-built skills showcase easy, interactive, intuitive and meaningful information without the need to login and open ERP applications.
+-   In this lab, you requested a demo ERP Cloud instance and interacted with the pre-built Digital Assistant skill for ERP. Oracle Digital Assistant pre-built skills showcase easy, interactive, intuitive and meaningful information without the need to login and open ERP applications.
 
 
 -   **You are ready to move on to the next lab!**
