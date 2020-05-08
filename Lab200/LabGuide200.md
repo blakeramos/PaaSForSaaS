@@ -44,13 +44,13 @@ This lab walks you through registering a demo using a Fusion Apps demo title tha
 
 -   Fill in the details, demo resource details, activity dates, and any additional information. 
 
--   The select **Next** in the bottom right corner.
+-   Then select **Next** in the bottom right corner.
 
 ![](./images/details.jpg " ")
 
 -   In the additional information section select the Horizontal or Industry-Specific category that is most applicable. 
 
--   The next field will ask if you want to add other to this Demo, if applicable please enter the Oracle email of the person you want to add to the demo.
+-   The next field will ask if you want to add others to this Demo, if applicable please enter the Oracle email of the person you want to add to the demo.
 
 -   Next, select the product you plan to include in your demo. This should be **Products -> Cloud Apps -> Fusion Apps -> ERP Cloud**.
 
@@ -180,7 +180,7 @@ This lab walks you through registering a demo using a Fusion Apps demo title tha
 
 -   The next thing we need to do is procure business cards. To do this type in **Order business cards**
 
--   The Digital Assistant will respond and give you a preview. Select **Tap here**.
+-   The Digital Assistant will respond and give you a preview. 
 
 -   Select **Tap here**
 
@@ -239,7 +239,6 @@ This lab walks you through registering a demo using a Fusion Apps demo title tha
 ## Summary
 
 -   In this lab, you requested a demo ERP Cloud instance and interacted with the pre-built Digital Assistant skill for ERP. Oracle Digital Assistant pre-built skills showcase easy, interactive, intuitive and meaningful information without the need to login and open ERP applications.
-
 
 -   **You are ready to move on to the next lab!**
 
