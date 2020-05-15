@@ -97,7 +97,7 @@ This lab walks you through registering a demo using a Fusion Apps demo title tha
     - The date of the expense: **Enter a date of your choice** (example 3/23/20) 
     - The category of the expense: **Select Breakfast**
 
-![](./images/da3.jpg " ")
+![](./images/da3..jpg " ")
 
 ![](./images/da4.jpg " ")
 
