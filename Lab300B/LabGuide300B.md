@@ -10,8 +10,13 @@ In this lab you will create a Process that allows for human approval. You will c
 [Lab 400 Walkthrough Video](<INSERT LINK HERE>)
 
 ### Objectives
+-   Create a process application
+-   Test your process application
+
 
 ### Required Artifacts
+-   Previously completed lab 300A
+-   The estimated time to complete this lab is 90 minutes
 
 ### Extra Resources
 -   To learn more about Oracle Integration, feel free to explore the capabilities by clicking on this link: [OIC Documentation](https://docs.oracle.com/en/cloud/paas/integration-cloud/index.html)

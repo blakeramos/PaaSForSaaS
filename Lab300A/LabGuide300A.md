@@ -1,5 +1,4 @@
-# Introduction: Integrating Cloud ERP with OIC (INTERNAL ONLY)
-
+# Lab 300A: Integrating Cloud ERP with OIC (INTERNAL ONLY)
 <!-- Comment out table of contents
 ## Table of Contents
 [Introduction](#introduction)
@@ -31,6 +30,7 @@ In this lab, you will use Oracle Integration to make a connection to your Cloud 
 - Postman
 - ERP Cloud Instance from 
 - Oracle Autonomous Data Warehouse instance with preconfigured Table and access to Wallet file with connection details.
+- The estimated time to complete this lab is 90 minutes
 
 ### Extra Resources
 -   To learn more about Oracle Integration, feel free to explore the capabilities by clicking on this link: [OIC Documentation](https://docs.oracle.com/en/cloud/paas/integration-cloud/index.html)
