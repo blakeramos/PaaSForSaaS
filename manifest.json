@@ -16,24 +16,19 @@
             "filename": "./Lab200/LabGuide200.md"
         },
         {            
-            "title": "Lab 300: Connect",
+            "title": "Lab 300A: Connect",
             "publisheddate": "02/24/2020",
-            "filename": "./Lab300/LabGuide300.md"
+            "filename": "./Lab300/LabGuide300A.md"
+        },
+        {            
+            "title": "Lab 300B: Connect",
+            "publisheddate": "02/24/2020",
+            "filename": "./Lab300/LabGuide300B.md"
         },
         {            
             "title": "Lab 400: Secure",
             "publisheddate": "02/24/2020",
             "filename": "./Lab400/LabGuide400.md"
-        },
-        {            
-            "title": "Lab 500: TBD",
-            "publisheddate": "02/24/2020",
-            "filename": "./Lab500/LabGuide500.md"
-        },
-        {
-            "title": "Lab 600: TBD",
-            "publisheddate": "02/24/2020",
-            "filename": "./Lab600/LabGuide600.md"
         }
      ]
 }
