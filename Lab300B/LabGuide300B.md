@@ -189,7 +189,7 @@ In this lab you will create a Process that allows for human approval. You will c
 
 ![](./images/16.png " ")
 
-- Now we have the personnas configured for our process, a customer submitting the order, and a process owner to review relevant orders. Now, drag and drop an 'Approve' action from the right, under Human, and place it in the Process Owner section of the screen.
+- Now we have the personas configured for our process, a customer submitting the order, and a process owner to review relevant orders. Now, drag and drop an 'Approve' action from the right, under Human, and place it in the Process Owner section of the screen.
 
 ![](./images/17.png " ")
 
@@ -213,7 +213,7 @@ Drag and drop the line from the gateway to the user task.
 
 ![](./images/22.png " ")
 
-Place another eclusive gateway to the right of the user task. 
+Place another exclusive gateway to the right of the user task. 
 
 ![](./images/23.png " ")
 
@@ -221,7 +221,7 @@ Drag and drop a cursor from the user task to the new exclusive gateway.
 
 ![](./images/24.png " ")
 
-Under the system action on the right, drag and drop a Nofity task to the right of exclusive gateway. 
+Under the system action on the right, drag and drop a Notify task to the right of exclusive gateway. 
 
 ![](./images/25.png " ")
 
@@ -237,13 +237,13 @@ Open its properties.
 
 ![](./images/29.png " ")
 
-Click the pencil. Then click the pencil to the right of the condtion box. 
+Click the pencil. Then click the pencil to the right of the condition box. 
 
 ![](./images/30.png " ")
 
 Enter this logic, you can highlight the totalPrice field, press 'Insert Into Expression' and then add ' > 12000. This will route the integration to need human approval if the total price is over $12,000. We hardcoded a value of $15,000 previously in order to ensure you will need the human approval.
 
-- Your process is coming along well, in the next steps we will add the itnegration to your process and complete its devleopment.  
+- Your process is coming along well, in the next steps we will add the integration to your process and complete its development.  
 
 ### **STEP 4**: Add the integration to the process, Test the Process Application
 
@@ -415,7 +415,7 @@ Click 'TaskOutcomeDataObject' then Insert Into Express. Complete the expression 
 
 ![](./images/93.png " ").
 
-- You can view your end process flow here to see if it was succesful.
+- You can view your end process flow here to see if it was successful.
 
 ![](./images/94.png " ").
 
