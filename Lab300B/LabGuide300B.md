@@ -7,7 +7,7 @@
 
 ## Introduction
 In this lab you will create a Process that allows for human approval. You will create a process form that allows you to enter order information. The process allows you to define workflow approval and call an integration to create an Order within ERP. *In addition to the workshop*, feel free to watch the walk-through companion video by clicking on the following link:
-[Lab 400 Walkthrough Video](<INSERT LINK HERE>)
+[Lab 300B Walkthrough Video](<INSERT LINK HERE>)
 
 ### Objectives
 -   Create a process application

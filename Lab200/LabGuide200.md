@@ -174,7 +174,7 @@ This lab walks you through registering a demo using a Fusion Apps demo title tha
 
 ![](./images/select.jpg " ")
 
--   The Digital Assistant will create the purchase requisition and route the req. to your manager for approval. 
+-   Type in **Yes** and the Digital Assistant will create the purchase requisition and route the req. to your manager for approval. 
 
 ![](./images/purchase.jpg " ")
 

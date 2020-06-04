@@ -193,7 +193,7 @@ This lab walks you through registering a Fusion apps demo environment. From ther
 
 -   Click **App Catalog**.
 
-![](./images/idcs-erpprov-catalog.png " ")
+![](./images/idcs-add-app.png " ")
 
 -   Search **Oracle Fusion Applications Release 13** and then click **Add**.
 
